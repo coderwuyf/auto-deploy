@@ -1,6 +1,6 @@
 {
   "name": "svn-auto-deploy",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "auto deploy by using svn",
   "main": "index.js",
   "bin": {
@@ -10,6 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "node ./upload.js"
   },
+  "repository": "https://github.com/coderwuyf/auto-deploy",
   "dependencies": {
     "chalk": "^4.1.1",
     "compressing": "^1.5.1",

@@ -8,7 +8,8 @@ Currently, only the SVN version has been completed
 目前只完成了SVN的版本
 
 
-
+## 注意事项
+svn版本使用前提：需要安装svn命令行工具，一般下载的svn并没有默认选中安装命令行工具，需要手动下载
 ## 安装 install
 
 ```
