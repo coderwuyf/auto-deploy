@@ -1,2 +1,4 @@
 # auto-deploy
-(use nodejs to auto deploy project on test service
+Use Node to automatically deploy the project to the test server
+
+Currently, only the SVN version has been completed
