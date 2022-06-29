@@ -1,0 +1,23 @@
+{
+  "name": "svn-auto-deploy",
+  "version": "1.0.4",
+  "description": "auto deploy by using svn",
+  "main": "index.js",
+  "bin": {
+    "deploy": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node ./upload.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "compressing": "^1.5.1",
+    "inquirer": "^8.2.2",
+    "node-ssh": "^12.0.4",
+    "ora": "^5.4.0",
+    "shelljs": "^0.8.5"
+  },
+  "author": "",
+  "license": "MIT"
+}
