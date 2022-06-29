@@ -1,6 +1,6 @@
 {
   "name": "svn-auto-deploy",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "auto deploy by using svn",
   "main": "index.js",
   "bin": {
